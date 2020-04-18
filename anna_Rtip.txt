@@ -1,0 +1,3 @@
+Printing info about raster when loading a it
+
+(rast_obj <- raster(raster_path))
