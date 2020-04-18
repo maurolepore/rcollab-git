@@ -8,7 +8,7 @@ output:
 ---
 # github username is opus1993
 
-### my tip:  for fast and simple table styling, use kable:
+### Jim's tip:  for fast and simple table styling, use kable:
 
 ```{r}
 library(knitr)
