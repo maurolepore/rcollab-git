@@ -1,0 +1,1 @@
+Use sessionInfo() to record the computational details of your analysis.
