@@ -1,0 +1,21 @@
+---
+title: 'github introduction'
+author: "Jim Gruman"
+date: "`r format(Sys.Date(),'%A, %B %e, %Y')`"
+output: 
+ blogdown::html_page:
+  toc: true
+---
+# github username is opus1993
+
+### Jim's tip:  for fast and simple table styling, use kable:
+
+```{r}
+library(knitr)
+library(kableExtra)
+dt <- mtcars[1:5, 1:6]
+
+dt %>%
+  kable() %>%
+  kable_styling()
+```
